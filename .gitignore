@@ -1,4 +1,5 @@
 .idea
+angel_front.iml
 build
 dist
 node_modules/
