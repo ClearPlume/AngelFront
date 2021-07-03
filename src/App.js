@@ -1,9 +1,21 @@
 import React, {Component} from "react";
 
-import Hello from "./Hello";
+import Header from "./components/Header";
+import Main from "./components/Main";
+import Footer from "./components/Footer";
+
+import "./App.css"
 
 export default class App extends Component {
     render() {
-        return <Hello/>
+        return (
+            <div className="todo-container">
+                <div className="todo-wrap">
+                    <Header/>
+                    <Main/>
+                    <Footer/>
+                </div>
+            </div>
+        )
     }
 }
