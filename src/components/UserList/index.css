@@ -1,0 +1,23 @@
+.row {
+    margin: 0 auto;
+    width: 93%;
+}
+
+.card {
+    float: left;
+    width: 33.33%;
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 1px solid #efefef;
+    text-align: center;
+}
+
+.card img {
+    margin-bottom: .75rem;
+    border-radius: 100px;
+    width: 100px;
+}
+
+.card-text {
+    font-size: 85%;
+}
