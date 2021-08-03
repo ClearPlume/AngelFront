@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/charts": "^1.2.0",
+    "@ant-design/icons": "^4.6.2",
+    "@ant-design/pro-form": "^1.32.4",
     "antd": "^4.16.7",
     "axios": "^0.21.1",
     "http-proxy-middleware": "^0.19.1",
